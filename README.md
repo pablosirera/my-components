@@ -1,24 +1,16 @@
-# my-components
+# My Components
 
-## Project setup
-```
-npm install
-```
+[![GitHub last commit](https://img.shields.io/github/last-commit/pablosirera/nearest-bin)](https://github.com/pablosirera/nearest-bin/commits/master)
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+## 🔧 Project setup
 
-### Compiles and minifies for production
-```
-npm run build
-```
+```bash
+# install dependencies
+$ npm install
 
-### Lints and fixes files
-```
-npm run lint
-```
+# view storybook components
+$ npm run storybook
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+# compiles and hot-reloads for development
+$ npm run serve
+```
